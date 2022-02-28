@@ -4,3 +4,5 @@ aik df aphir change ORIG mein
 
 simple mainmein changes ye  dekhne ke liye ke  kya 
 git ka jo masla aat hai wo to naahi arha 
+
+is chkr mein text add ke remote orig pe push kr skein
