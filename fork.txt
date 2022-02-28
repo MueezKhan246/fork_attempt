@@ -1,3 +1,6 @@
 bas kuch text fork ko attempt krne ke liye
 aik df aphir change ORIG mein
 2 branches hain remote mein 2no se aata ke nahi affect ye check
+
+simple mainmein changes ye  dekhne ke liye ke  kya 
+git ka jo masla aat hai wo to naahi arha 
